@@ -15,3 +15,23 @@ Two datasets are used for this task, the Margie Travel Dataset and the Top30 air
 4. Output the passenger with the most miles travelled and the passenger.
 
 
+# Feedback
+## Task 1 - Analysis of Nuclear Plants dataset (40%) 
+-Discussion on how you would deal with missing values is reasonable, you could have supported your answer with more references. -You should have given more thought to data imputation and what happens to the data if we impute missing values incorrectly. -You were expected to discuss the types of missing data in (MCAR, MAR, and MNAR) given in Week 2. -You haven't discussed the data and what it means well enough in this section. -Your report must have been comprehensive when reporting on the produced results, providing outputs in figures/tables and referring to them in the text. 28/40.
+
+## Task 2 - MapReduce of Margie Travel Dataset (40%)
+-Good! A detailed explanation of using MapReduce to achieve each of the tasks was also expected in this section. -Figures quality can be improved. 34.8/40.
+
+## Task 3 - Big Data Tools and Technology Appraisal (20%) 
+-More critique of the used methods was expected. Currently, this section represents a good summary section rather than an appraisal section. -References must be in accordance with the University of Lincoln Harvard referencing style. 13/20.
+
+## Overall
+
+76/100
+
+
+
+
+
+
+
